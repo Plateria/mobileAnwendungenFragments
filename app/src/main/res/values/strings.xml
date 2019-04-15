@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileAnwendungenExample</string>
+    <string name="title_example_fragment">First Fragment</string>
+    <string name="title_example_fragment_second">Second Fragment</string>
+</resources>
